@@ -1,0 +1,7 @@
+git_challenge % git add .     
+git_challenge % git commit -m "hello_world.txtを追加"
+git_challenge % git add hello_world.txt
+git_challenge % git commit -m 日本語訳を追記
+git_challenge % git log --oneline
+5926b47 (HEAD -> main) 日本語訳を追記
+3a30681 hello_world.txtを追加
